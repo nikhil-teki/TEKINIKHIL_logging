@@ -1,0 +1,6 @@
+2020-02-27 22:46:49 DEBUG App:26 - Construction Cost with Standard Material for area=55 : 66000.0
+2020-02-27 22:46:49 DEBUG App:33 - Construction Cost with AboveStandard Material for area=60 : 90000.0
+2020-02-27 22:46:49 DEBUG App:40 - Construction Cost with HighStandard Material and no automation for area=100 : 180000.0
+2020-02-27 22:46:49 DEBUG App:47 - Construction Cost with HighStandard Material and automation for area=400 : 1000000.0
+2020-02-27 22:46:49 DEBUG App:53 - P=22000 T=2 R=5 Simple Interest : 2200.0
+2020-02-27 22:46:49 DEBUG App:59 - P=12000 T=1 n=3 Compound Interest : 12360.0
